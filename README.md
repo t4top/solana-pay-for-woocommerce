@@ -1,3 +1,5 @@
+## This repo has been archived and succeeded by an enhanced version. Please use [wc-solana-pay](https://github.com/aztemi/wc-solana-pay) moving forward.
+
 # solana-pay-for-woocommerce
 
 Solana Pay payment gateway for WordPress and WooCommerce
